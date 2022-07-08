@@ -4,7 +4,7 @@ Hi 👋 My name is Hassan Athman
 I'm a Python Backend Developer
 ------------------------------
 
-I've been coding for some years and finally started developing robust backend system for the past two years.
+I've been coding for some years and finally started developing robust backend system for the past three years.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🚀  I'm currently working on [Lipana Technologies](http://lipana.co.ke)
