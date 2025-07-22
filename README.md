@@ -1,13 +1,13 @@
 Hi 👋 My name is Hassan Athman
 ==============================
 
-I'm a Python Backend Developer
+I'm a Fullstack Web Developer
 ------------------------------
 
 I've been coding for some years and finally started developing robust backend system for the past three years.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🚀  I'm currently working on [Lipana Technologies](http://lipana.co.ke)
+* 🚀  I'm currently working on [StudioLink.app](http://studiolink.app)
 * 🧠  I'm learning React, Web3
 * 🤝  I'm open to collaborating on Web3 projects
 * ⚡  I enjoy creating database systems and dapps
