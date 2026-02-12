@@ -4,7 +4,7 @@ Hi 👋 My name is Hassan Athman
 I'm a Fullstack Web Developer
 ------------------------------
 
-I've been coding for some years and finally started developing robust backend system for the past three years.
+I've been coding for some years and finally started developing robust backend system for the past ten years.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🚀  I'm currently working on [StudioLink.app](http://studiolink.app)
